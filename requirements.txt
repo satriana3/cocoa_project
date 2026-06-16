@@ -2,7 +2,8 @@ streamlit
 opencv-python-headless
 numpy
 pandas
-joblib
 scikit-learn
+joblib
+scikit-image
 matplotlib
-pillow
+Pillow
