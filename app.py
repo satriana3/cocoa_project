@@ -206,7 +206,7 @@ st.sidebar.caption("Aplikasi deteksi penyakit buah kakao berbasis pengolahan cit
 st.markdown("""
 <div class="hero">
     <h1>🍫 Cocoa Disease Detector</h1>
-    <p>Klasifikasi penyakit buah kakao dengan preprocessing citra, ekstraksi fitur, dan Random Forest.</p>
+    <p>Deteksi penyakit buah kakao dengan preprocessing citra, ekstraksi fitur, dan Random Forest.</p>
 </div>
 """, unsafe_allow_html=True)
 
